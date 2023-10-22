@@ -21,3 +21,14 @@ In this project, we build an ETL(Extract, Transform, Load) pipeline, in which pi
   5) Glue Crawler
   6) Glue Catalog
   7) Athena
+ 
+## Dataset/API
+Spotify API contain the information about Album, Artist and Songs - [Spotipy API](https://spotipy.readthedocs.io/en/2.22.1/)
+
+## Install Packages
+```
+pip install pandas
+pip install numpy
+pip install spotipy
+
+```
