@@ -13,11 +13,11 @@ In this project, we build an ETL(Extract, Transform, Load) pipeline, in which pi
 
 ## Technology Used
 * Programming Language - Python
-*Amazon Web Service (AWS)
-1) Lambda
-2) CloudWatch
-3) S3 (Simple Storage Service)
-4) S3 Trigger
-5) Glue Crawler
-6) Glue Catalog
-7) Athena
+* Amazon Web Service (AWS)
+  1) Lambda
+  2) CloudWatch
+  3) S3 (Simple Storage Service)
+  4) S3 Trigger
+  5) Glue Crawler
+  6) Glue Catalog
+  7) Athena
