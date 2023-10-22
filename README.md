@@ -25,7 +25,7 @@ In this project, we build an ETL(Extract, Transform, Load) pipeline, in which pi
 ## Dataset/API
 Spotify API contain the information about Album, Artist and Songs - [Spotipy API](https://spotipy.readthedocs.io/en/2.22.1/)
 
-## Install Packages
+## Installed Packages
 ```
 pip install pandas
 pip install numpy
